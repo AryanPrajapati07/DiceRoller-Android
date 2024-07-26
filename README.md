@@ -1,6 +1,4 @@
-Here's a basic README file template for an Android project named "DiceRoller," using Java and an SQL database:
 
----
 
 # DiceRoller
 
@@ -60,9 +58,7 @@ Contributions are welcome! Please follow these steps:
 4. Push your changes to your forked repository.
 5. Open a pull request to the main repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+Email : aryanprajapati2207@gmail.com
 
----
 
-Feel free to customize this template to better suit your project's needs!
