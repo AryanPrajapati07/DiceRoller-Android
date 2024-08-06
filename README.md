@@ -58,6 +58,15 @@ Contributions are welcome! Please follow these steps:
 4. Push your changes to your forked repository.
 5. Open a pull request to the main repository.
 
+## Screenshots
+![1](https://github.com/user-attachments/assets/f0720645-4216-4629-962e-8a1b32db50e0)
+![2](https://github.com/user-attachments/assets/c367dc05-840d-4c69-a201-97f75cc8c75f)
+![3](https://github.com/user-attachments/assets/772b3b5a-f417-4414-bbb5-1821cdcdc9fa)
+![4](https://github.com/user-attachments/assets/5c8ff6fb-a67a-48f3-8260-4f2f191c5bdc)
+![5](https://github.com/user-attachments/assets/89664f45-bf24-4cde-9ffa-af6d135b9ac1)
+![6](https://github.com/user-attachments/assets/f2af0b1d-abee-40f5-b7a2-c4ed6bc61016)
+
+
 ## Contact
 Email : aryanprajapati2207@gmail.com
 
